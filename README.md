@@ -33,6 +33,7 @@ For the Sensor Data:
 
 ## Screenshots
 The design of the dashboard at the operator end:
+
 ![Dashboard](https://github.com/im-gozmit/GARUD/blob/master/dashboard.jpg)
 
 ## Built With
