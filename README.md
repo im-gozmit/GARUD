@@ -27,8 +27,11 @@ pip3 install -r requirements.txt
 ## Running the tests
 
 For the Geolocation Data:
+
 ![Geolocation Test](https://github.com/im-gozmit/GARUD/blob/master/test/gps.gif)
+
 For the Sensor Data:
+
 ![Sensor Data test](https://github.com/im-gozmit/GARUD/blob/master/test/sensor.gif)
 
 ## Screenshots
